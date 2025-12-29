@@ -1,69 +1,95 @@
-# Hi 👋 I'm Youssef Dhib
+<h2 align="left">
+  Hi 👋! My name is Youssef Dhib and I'm a Full-Stack JavaScript Developer, from Tunisia 🇹🇳
+</h2>
 
-💻 Full-Stack JavaScript Developer  
-📍 tunisia
+###
 
----
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=youfes111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    height="150"
+    alt="stats graph"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=youfes111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false"
+    height="150"
+    alt="languages graph"
+  />
+</div>
 
-## 👨‍💻 About Me
-I’m a **Full-Stack JavaScript Developer** passionate about building modern, scalable, and maintainable web applications.  
-I enjoy working across both frontend and backend, applying clean architecture principles and best practices.
+###
 
-I’m constantly improving my skills by building real-world projects, exploring new technologies, and focusing on writing clean and efficient code.
+<img
+  align="right"
+  height="150"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
 
----
+###
 
-## 🛠 Tech Stack
+<div align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+</div>
 
-**Languages**
-- JavaScript (ES6+), TypeScript
-- Python
-- Java, C, C++
+###
 
-**Frontend**
-- React, Vue.js, Next.js
-  
-**Backend**
-- Node.js, Express.js, NestJS
-- Symfony (PHP)
-- REST APIs, GraphQL
+<div align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind logo" />
+</div>
 
-**Databases**
-- MongoDB
-- PostgreSQL, SQL
+###
 
-**Tools & DevOps**
-- Git, GitHub
-- Docker
-- Postman
-- Vercel, Render
+<div align="left">
+  <!-- Backend & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+</div>
 
-**Architecture & Practices**
-- MVC Architecture
-- Clean Architecture (basic understanding)
-- Authentication & Authorization (JWT, OAuth)
-- CI/CD (basic)
+###
 
----
+<div align="left">
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
 
-## 🚀 What I’m Working On
-- Building full-stack applications with modern JavaScript frameworks
-- Improving backend architecture and API design
-- Deploying and maintaining applications using cloud platforms
-- Strengthening best practices in testing, security, and scalability
+###
 
----
+<br clear="both">
 
-## 📌 Goals
-- Grow as a professional full-stack developer
-- Contribute to impactful and real-world projects
-- Gain hands-on experience through internships and collaborations
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-
-## 📫 Contact Me
-- 📧 Email: your.email@gmail.com
-- 💼 LinkedIn: (add when ready)
-
----
-
-⭐️ Feel free to explore my repositories and projects!
