@@ -59,14 +59,6 @@ I’m constantly improving my skills by building real-world projects, exploring 
 - Contribute to impactful and real-world projects
 - Gain hands-on experience through internships and collaborations
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youfess111&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youfess111&layout=compact)
-
----
 
 ## 📫 Contact Me
 - 📧 Email: your.email@gmail.com
