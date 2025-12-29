@@ -1,7 +1,7 @@
 # Hi 👋 I'm Youssef Dhib
 
 💻 Full-Stack JavaScript Developer  
-📍 Tunisia
+📍 tunisia
 
 ---
 
