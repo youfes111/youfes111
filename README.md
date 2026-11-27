@@ -51,12 +51,6 @@ My work spans multi-tenant commerce platforms, order management, event-driven wo
 - Server-side rendering, performance and maintainable frontend systems
 - Operational dashboards, data visualization and accessible responsive UI
 
-## Public projects
-
-| Repository | Area |
-| --- | --- |
-| [Insurance claims management](https://github.com/youfes111/Esprit_5TWIN5_FunctionFreaks_Assurance-gestion-sinistres) | Academic team project |
-| [Wolfs-2A40](https://github.com/youfes111/Wolfs-2A40) | Academic project repository |
 
 ## Let's connect
 
